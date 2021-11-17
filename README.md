@@ -1,5 +1,4 @@
-# AB-TESTING
 
-A project that demonstrate an AB testig expirment. 
+# A/B Testing
 
-It was done on a website, to see whether the new layout for a website is better for user experience, or the current one.
+Applying A/B testing to test the effectiveness of a new website layout in terms of the conversiton rate.
